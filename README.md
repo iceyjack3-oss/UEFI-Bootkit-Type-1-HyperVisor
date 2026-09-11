@@ -4,8 +4,8 @@
 
 ⚠️ **PROJECT STATUS: ABANDONED / UNTESTED / INCOMPLETE** ⚠️
 
-THIS IS NOT TESTED IT MAY CONTAIN ALOT OF BUGS!
 This repository contains a raw, low-level structural blueprint for an Intel VT-x Type-1 Hypervisor designed to boot directly from a UEFI environment. 
+THIS IS NOT TESTED IT MAY CONTAIN ALOT OF BUGS!
 
 This project was built as a solo intellectual challenge to map out Ring -1 hardware architectures To bypass Vanguard. Due to the extreme time constraints required to build out a complete nested virtualization engine (to support Windows Hyper-V/VBS), I have decided to archive this codebase and walk away from development.
 
