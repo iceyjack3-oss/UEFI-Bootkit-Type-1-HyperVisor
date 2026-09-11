@@ -17,7 +17,7 @@ This project was built as a solo intellectual challenge to map out Ring -1 hardw
 ### 🧩 What is Implemented (Theory Draft)
 * **UEFI Boot Entry:** Basic framework initialization.
 * **VMX Setup:** Configuration layout for entering VMX operation.
-* **Guest/Host State:** Baseline Intel VMCS layout structures (~900 lines of logic).
+* **Guest/Host State:** Baseline Intel VMCS layout structures.
 * **EPT Configuration:** Initial draft for mapping Guest/Host page tables.
 
 ### ❌ What is Missing / Broken
